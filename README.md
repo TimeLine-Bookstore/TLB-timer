@@ -6,8 +6,6 @@
 
 ## 许可证信息
 本计时器工具根据[MIT许可证](LICENSE)的条款进行授权和提供。
-
-部分代码和原理参考了[SCP Wiki团队](https://github.com/scpwiki)所制作的[Timer](https://github.com/scpwiki/timer)，同样使用[MIT许可证]()，在此对其表示感谢。
 ```
 The MIT License (MIT)
 Copyright (c) 2022 TimeLine-Bookstore
