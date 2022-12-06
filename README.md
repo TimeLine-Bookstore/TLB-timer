@@ -2,7 +2,7 @@
 用来生成外链到TLB维基的页面或讨论区帖子的计时器工具。
 
 ## 使用方式
-详细的使用方式请阅读https://timeline-bookstore.wikidot.com/TLB-timer/index.html
+详细的使用方式请阅读https://timeline-bookstore.github.io/TLB-timer/index.html
 
 ## 许可证信息
 本计时器工具根据[MIT许可证](LICENSE)的条款进行授权和提供。
